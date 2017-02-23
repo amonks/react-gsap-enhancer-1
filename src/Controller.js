@@ -87,7 +87,7 @@ const EXPOSED_METHODS = [
   'fromTo', 'getLabelAfter', 'getLabelArray', 'getLabelBefore', 'getLabelTime',
   'invalidate', 'isActive', 'pause', 'paused', 'play', 'progress', 'restart',
   'resume', 'reverse', 'reversed', 'seek', 'startTime', 'time', 'timeScale',
-  'totalDuration', 'totalProgress', 'totalTime', 'tweenFromTo', 'tweenTo'
+  'to', 'totalDuration', 'totalProgress', 'totalTime', 'tweenFromTo', 'tweenTo'
 ]
 
 const ONLY_GETTER_METHODS = [
